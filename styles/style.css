@@ -39,10 +39,10 @@ header {
 .banner .btn-primary{
     margin-top: 30px;
 }
-/* failer section styles */
+/* failer section styles
 .failure-section{
 
-}
+} */
 .section-items{
     display: flex;
     align-items: center;
@@ -124,6 +124,46 @@ header {
 .mindset-items button{
     color: #f15b22;
     background-color: #ffffff;
+}
+/* project section design */
+.project-plan{
+    display: flex;
+    gap: 100px;
+}
+.section-title{
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.project-item img{
+    margin-bottom: 10px;
+    margin-top: 20px;
+    padding-left: 30px;
+}
+.project-item .title{
+    font-size: 35px;
+    font-weight: 700;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.project-item .description{
+    color: #444343;
+    margin-bottom: 20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-bottom: 30px;
+}
+.project-item{
+    
+    
+    
+}
+.project-info{
+    background-color: #f5f5f5;
+    border-radius: 8px;
+    margin-top: 20px;
+    box-shadow: 5px 5px 25px rgba(0, 0, 0,0.2);
 }
 /* footer section */
 footer{
