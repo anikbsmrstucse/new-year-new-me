@@ -13,7 +13,7 @@
     border: none;
 }
 .sec-margin{
-    margin: 130px 130px 0;
+    padding: 130px 130px 0;
 }
 /* banner section style */
 header {
@@ -73,4 +73,32 @@ header {
 }
 .failure-image img{
     height: 700px;
+}
+/* plan styles */
+.myplan{
+    text-align: center;
+}
+.plan-title{
+    font-size: 40px;
+    font-weight: 700;
+    color: #151414;
+    margin-bottom: 50px;
+    
+}
+.plan{
+    display: flex;
+    justify-content: space-between;
+    gap: 10px;
+
+}
+.items{
+    background-color: #f5f5f5;
+}
+.items .banner-title{
+    font-size: 28px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+}
+.items .banner-description{
+    font-weight: 500;
 }
