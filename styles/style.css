@@ -125,3 +125,62 @@ header {
     color: #f15b22;
     background-color: #ffffff;
 }
+/* footer section */
+footer{
+    background-color: #151414;
+    margin-top: 130px;
+    padding: 130px;
+}
+.footer-content{
+    display: flex;
+    justify-content: space-between;
+    gap: 300px;
+}
+.future .banner-title{
+    color: #f8f8f8;
+    font-size: 45px;
+
+}
+.future-description{
+    margin-top: 10px;
+    color: #ffffff;
+    line-height: 25px;
+}
+.future-email{
+ margin-top: 24px;
+ color: #ffffff;
+}
+.future-phone{
+    margin-top: 24px;
+    color: #ffffff;
+}
+.icon{
+    margin-top: 30px;
+}
+.icon a{
+    text-decoration: none;
+    margin-right: 20px;
+}
+.subscribe .banner-title{
+    font-size: 25px;
+    font-weight: 600;
+    color: #f8f8f8;
+}
+.subscribe input{
+    font-size: 18px;
+    color: #ffffff;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-left: 20px;
+    padding-right: 150px;
+    background-color: #151414;
+    border: 1px solid #ffffff;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.subscribe .btn-primary{
+    color: #F15B22;
+    background-color: #ffffff;
+    padding: 20px 35px;
+}
+/* Done */
